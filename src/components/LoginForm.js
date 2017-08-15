@@ -13,7 +13,7 @@ class LoginForm extends Component {
       <Card>
         <CardSection>
           <Input
-            label="Email"
+            label="Emaile"
             placeholder="email@gmail.com"
             onChangeText={this.onEmailChange.bind(this)}
           />
